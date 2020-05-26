@@ -29,6 +29,7 @@ namespace OOP_lab_3_18_2
             }
 
             Console.WriteLine("Кiлькiсть непарних чисел: {0}", k);
+            
 
             if (k != 0)
             {
